@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.96.4.25052/CodeLLMSetup-x64-1.96.4.25052.exe",
-  "name": "1.96.4.25052",
-  "version": "a8b43205d48d94f60fec0996b9a6114379140009",
-  "productVersion": "1.96.4.25052",
-  "hash": "0912b1fde06b48cef57d46806cdc665452ea2849",
-  "timestamp": "1738805251088",
-  "sha256hash": "c06cec90df7f71c18620ab46597f56a0db12adfeeef84194aee53b1feccaf590"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.96.4.25059/CodeLLMSetup-x64-1.96.4.25059.exe",
+  "name": "1.96.4.25059",
+  "version": "692eae5310a7e4b4cf05c49cb69ff6a41a20c8ec",
+  "productVersion": "1.96.4.25059",
+  "hash": "39adf06c44793a54feab5aefdff95d7ba6553c27",
+  "timestamp": "1739278346718",
+  "sha256hash": "7f165093375e586987332b8d31aa41c175b30b9ba7c20d22a4029f1ccac1df8f"
 }
