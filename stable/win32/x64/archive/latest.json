@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.96.4.25139/CodeLLM-win32-x64-1.96.4.25139.zip",
-  "name": "1.96.4.25139",
-  "version": "a386dc1a337b3ed3f3d333553f3876fb45374311",
-  "productVersion": "1.96.4.25139",
-  "hash": "bffdbfbed1141d87be1722bd64546a789a1b8e3e",
-  "timestamp": "1742269960260",
-  "sha256hash": "22bc4dee7b42201313fef8c98edb8447e2b3ee9a38c1fd4a6d572acb48dff23c"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.96.4.25142/CodeLLM-win32-x64-1.96.4.25142.zip",
+  "name": "1.96.4.25142",
+  "version": "60bf95947b393dde9baa59b4f212e4170fd91d2d",
+  "productVersion": "1.96.4.25142",
+  "hash": "430469120632c982d7982054cf3aa6792eebe76e",
+  "timestamp": "1742369477006",
+  "sha256hash": "664a3deccd1d513cbe5551eeadf6a58e0270cc20fc5f97864a1d0179018a78a7"
 }
