@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.99.32217/CodeLLM-darwin-arm64-1.99.32217.zip",
-  "name": "1.99.32217",
-  "version": "d50bfcfdd8c04635ec2b042c71149bf0b0b4c61b",
-  "productVersion": "1.99.32217.0",
-  "hash": "713348f4af699c2803ba9a938d700e55306cf318",
-  "timestamp": "1749193684428",
-  "sha256hash": "a759769bdee97020be54c8d1c6533f4443ed2ae223481b656ac4764dc2875436"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.99.32301/CodeLLM-darwin-arm64-1.99.32301.zip",
+  "name": "1.99.32301",
+  "version": "2ec2fcfb18daa393a06e6b1074e7ae3ac647f5d2",
+  "productVersion": "1.99.32301.0",
+  "hash": "61fa37cd94c4c93ad5bd9a816eb10e82b7f9c0fc",
+  "timestamp": "1749533173414",
+  "sha256hash": "0d0d32d541a5d517fb7bc575e450ffeb08ff1473efe82c5e6770e89f12602853"
 }
