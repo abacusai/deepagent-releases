@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.99.32217/CodeLLM-linux-x64-1.99.32217.tar.gz",
-  "name": "1.99.32217",
-  "version": "d50bfcfdd8c04635ec2b042c71149bf0b0b4c61b",
-  "productVersion": "1.99.32217.0",
-  "hash": "77233fb2667032955b4f7152a9617e7d5df68eda",
-  "timestamp": "1749193350173",
-  "sha256hash": "23b55c6f354f91eb8640ed562d7f5f7b3d977d0ba3077860a2d65ca0ee4f07d2"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.99.32307/CodeLLM-linux-x64-1.99.32307.tar.gz",
+  "name": "1.99.32307",
+  "version": "fcf430d381b21aa150650c38c0f0683a77dc4e2e",
+  "productVersion": "1.99.32307.0",
+  "hash": "5e87f754baafe551eee2934dd32fcdbdfc4dff2f",
+  "timestamp": "1749652239160",
+  "sha256hash": "f805faad1c856a18bc4c90073b3ad24f97e1c8891b8614f2aefe1a5c5d050c7e"
 }
