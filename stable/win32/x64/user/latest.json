@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.99.32505/CodeLLMUserSetup-x64-1.99.32505.exe",
-  "name": "1.99.32505",
-  "version": "d948ed549327e041978b3714c3e4210abb0b9f7d",
-  "productVersion": "1.99.32505.0",
-  "hash": "69f77ed53c9de4e27b78e92e2ba97c46c7499252",
-  "timestamp": "1751028297823",
-  "sha256hash": "d41de0b462c13823df5fc1d844567499c29d8f8870a1199f948930a66f5cfc87"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23203/CodeLLMUserSetup-x64-1.101.23203.exe",
+  "name": "1.101.23203",
+  "version": "d6e99a0767b15132c240860822e305c360116405",
+  "productVersion": "1.101.23203",
+  "hash": "d2920f585c73c4d1af42613417c5050baef994cc",
+  "timestamp": "1755052483838",
+  "sha256hash": "344bdc99298ac68c2272e95228bfaa7956e3c511d586b0a79a9a09b3aef9f936"
 }
