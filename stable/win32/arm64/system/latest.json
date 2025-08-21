@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23214/CodeLLMSetup-arm64-1.101.23214.exe",
-  "name": "1.101.23214",
-  "version": "97840baf5e9d008ee3a25b89e1286be6bda35cba",
-  "productVersion": "1.101.23214",
-  "hash": "efdd6d463e5665f79596e87d0223bbfb150fc43c",
-  "timestamp": "1755178811311",
-  "sha256hash": "a812e8a74d00bb06bfe47619b014fc9053b1ebd29f474ddd5b8f690d03520dd2"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23312/CodeLLMSetup-arm64-1.101.23312.exe",
+  "name": "1.101.23312",
+  "version": "819f7442133cb444caf6ddf6e99ca1ca67b42c9c",
+  "productVersion": "1.101.23312",
+  "hash": "3c68fd67c2e3a693553581bef255cfc0e615b6f0",
+  "timestamp": "1755777276482",
+  "sha256hash": "f000a3b9062d7031f831a5ba6c1b4c07c718142be2bbc557b15aec8c56f9bca0"
 }
