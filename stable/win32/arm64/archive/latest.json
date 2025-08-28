@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23319/CodeLLM-win32-arm64-1.101.23319.zip",
-  "name": "1.101.23319",
-  "version": "4e4b9924135164272261a5b0f49b35fb23e2280a",
-  "productVersion": "1.101.23319",
-  "hash": "49602f44f9d3fe3bf95edc085b278eb6c834243e",
-  "timestamp": "1755866341019",
-  "sha256hash": "4d9e6d453c1c36eba5c28b65e787389f38a60e7cb98a7f2d53089d8d00b3274a"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23403/CodeLLM-win32-arm64-1.101.23403.zip",
+  "name": "1.101.23403",
+  "version": "cb6651140fdff1ae7cc550e1385eebd42c0506e1",
+  "productVersion": "1.101.23403",
+  "hash": "8715ed4dce4b85f770457b656feed623b94a141a",
+  "timestamp": "1756402275538",
+  "sha256hash": "3157e85aa422d52e4b39887c1233e8d49dbe466ef937b0d57a8742766120b298"
 }
