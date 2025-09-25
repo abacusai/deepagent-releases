@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23706/CodeLLM-win32-x64-1.101.23706.zip",
-  "name": "1.101.23706",
-  "version": "7d2763680d21765ed732569a1d3eaa81385c14c5",
-  "productVersion": "1.101.23706",
-  "hash": "2e1d4ec2e2cb0b1adb0c226a086f1a990a7fd4e5",
-  "timestamp": "1758176902015",
-  "sha256hash": "633694b574ea590f695782192fb352d97b365e17191e5680a991df61b1e3002f"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23814/DeepAgent-win32-x64-1.101.23814.zip",
+  "name": "1.101.23814",
+  "version": "ac844e4377e700cf98d70a5e5e14a3f621510927",
+  "productVersion": "1.101.23814",
+  "hash": "07d0c4f34fe6bf6d0026a17096b58309a3d9c879",
+  "timestamp": "1758764698957",
+  "sha256hash": "f75db2a97882ea7859c201ae9ebe8a525736f6c261d2879882fbd98ab0912369"
 }
