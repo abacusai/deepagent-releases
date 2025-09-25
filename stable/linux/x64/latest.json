@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23706/CodeLLM-linux-x64-1.101.23706.tar.gz",
-  "name": "1.101.23706",
-  "version": "7d2763680d21765ed732569a1d3eaa81385c14c5",
-  "productVersion": "1.101.23706",
-  "hash": "3ff2fb7b9ea1d7cf986c8bd27ae39346db2d6731",
-  "timestamp": "1758175015681",
-  "sha256hash": "517cfb2e6e2875279f38cb3f27ad345acabcfda4935ee61e935dadf694e26624"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23815/DeepAgent-linux-x64-1.101.23815.tar.gz",
+  "name": "1.101.23815",
+  "version": "909c92aa84e678981a0a0e4892839cc0f075d4d0",
+  "productVersion": "1.101.23815",
+  "hash": "be5044d21ea2f515d33a495c37031477765338b9",
+  "timestamp": "1758767960415",
+  "sha256hash": "80976ed15680a3228e5d5e9ffb12788dba7da4578753f9aa52796cfc7ea2f550"
 }
