@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23706/CodeLLMSetup-arm64-1.101.23706.exe",
-  "name": "1.101.23706",
-  "version": "7d2763680d21765ed732569a1d3eaa81385c14c5",
-  "productVersion": "1.101.23706",
-  "hash": "fa766f9080d1b7abcdaaf35a1bbb40a8ebeda6d4",
-  "timestamp": "1758176510065",
-  "sha256hash": "8204dec8d255c3b80fc33cfa7d400f1ff08eefbc95f175a4f836e1fcf2c28723"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23814/DeepAgentSetup-arm64-1.101.23814.exe",
+  "name": "1.101.23814",
+  "version": "ac844e4377e700cf98d70a5e5e14a3f621510927",
+  "productVersion": "1.101.23814",
+  "hash": "34ac59e4c1637290f9ea90401b5f22582e1ebd0a",
+  "timestamp": "1758764579727",
+  "sha256hash": "e5271a1854bcd72e727652eeb9bf36542cdd09ac96cc1227972dc134d16cd49e"
 }
