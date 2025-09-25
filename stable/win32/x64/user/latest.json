@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23706/CodeLLMUserSetup-x64-1.101.23706.exe",
-  "name": "1.101.23706",
-  "version": "7d2763680d21765ed732569a1d3eaa81385c14c5",
-  "productVersion": "1.101.23706",
-  "hash": "9e1c78a143cc007d6f849b1707e1531c2a141d4a",
-  "timestamp": "1758176901703",
-  "sha256hash": "601a12a553321a03048c492db89e87f354650f9bf4bee8f5a4b8b162c0ee9e1a"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23818/DeepAgentUserSetup-x64-1.101.23818.exe",
+  "name": "1.101.23818",
+  "version": "cf59a34f56a4029be154abbd4cf25cad3440427b",
+  "productVersion": "1.101.23818",
+  "hash": "9be98c9dba8717621e617caf723c161de943931b",
+  "timestamp": "1758810654982",
+  "sha256hash": "45ff3ed6cb82ce583c8ff84027e599b65bbab9df4e6397e04493c3d98d205c01"
 }
