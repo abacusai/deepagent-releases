@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23706/CodeLLM-darwin-x64-1.101.23706.zip",
-  "name": "1.101.23706",
-  "version": "7d2763680d21765ed732569a1d3eaa81385c14c5",
-  "productVersion": "1.101.23706",
-  "hash": "00464790838b0ed7b78b26226d7b7d5b9ac5fa45",
-  "timestamp": "1758175702085",
-  "sha256hash": "147a8eb18f8fa6c7524f64bfb2a5d6a86ec81a1655d206781e7c5997de62ad1d"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23825/DeepAgent-darwin-x64-1.101.23825.zip",
+  "name": "1.101.23825",
+  "version": "f93a84ce2d67d64dc83a2646ab0a0848aea1dac0",
+  "productVersion": "1.101.23825",
+  "hash": "e79f40c95c3f8c8000ad0abebd4b5859d4dec3d0",
+  "timestamp": "1758844465069",
+  "sha256hash": "fb700bd080a0f7506ac38bd7b5f3ab9bc8f63cf158d1c22f288c9b83c207b617"
 }
