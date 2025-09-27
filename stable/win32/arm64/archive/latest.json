@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23831/DeepAgent-win32-arm64-1.101.23831.zip",
-  "name": "1.101.23831",
-  "version": "6406941449b242e4523b288dcbf9c7d0af978d74",
-  "productVersion": "1.101.23831",
-  "hash": "6d119f4ffd915aebc1c94135f7749d17fc59a85d",
-  "timestamp": "1758896855957",
-  "sha256hash": "20ba2bb1e50803eec6d5fc339d1493ce940e56fc5da7909142aaf2bac64218b1"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23833/DeepAgent-win32-arm64-1.101.23833.zip",
+  "name": "1.101.23833",
+  "version": "3893da67a2bed001fab474ddd7cfa0b61b9d2686",
+  "productVersion": "1.101.23833",
+  "hash": "fd9dd7762194c3b587c41bf389ad05c5f9520c2c",
+  "timestamp": "1759009998638",
+  "sha256hash": "b1e91f95e6270ebe1e7a22ad0dddcacd649ad15e4b78fd8a088f021c5f208003"
 }
