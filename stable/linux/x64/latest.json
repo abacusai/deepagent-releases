@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23831/DeepAgent-linux-x64-1.101.23831.tar.gz",
-  "name": "1.101.23831",
-  "version": "6406941449b242e4523b288dcbf9c7d0af978d74",
-  "productVersion": "1.101.23831",
-  "hash": "1c0e1b22246031995e8e39b31d3d867b7b5c95bb",
-  "timestamp": "1758895646207",
-  "sha256hash": "ab7f41e2d1877c760bf8f7e47c0124de103eb10762014c1ba2df67aa30c8ecee"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23833/DeepAgent-linux-x64-1.101.23833.tar.gz",
+  "name": "1.101.23833",
+  "version": "3893da67a2bed001fab474ddd7cfa0b61b9d2686",
+  "productVersion": "1.101.23833",
+  "hash": "3392c48045d822dcc1b3f75e0131fd7775bf0268",
+  "timestamp": "1759008611822",
+  "sha256hash": "2a2467421b7f05e3d8fed5219cd5f44d21cfd524f7901c1b223685c3e6e29448"
 }
