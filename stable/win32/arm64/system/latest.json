@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23833/DeepAgentSetup-arm64-1.101.23833.exe",
-  "name": "1.101.23833",
-  "version": "3893da67a2bed001fab474ddd7cfa0b61b9d2686",
-  "productVersion": "1.101.23833",
-  "hash": "03c49e0ffaeef43ab362c5b45e6793c6f277b9d7",
-  "timestamp": "1759009996265",
-  "sha256hash": "35adf9f15efacd784d4b53bf9ebebcaaa053108b69e4392f2fc4c5be67956426"
+  "url": "https://github.com/abacusai/codellm-releases/releases/download/1.101.23900/DeepAgentSetup-arm64-1.101.23900.exe",
+  "name": "1.101.23900",
+  "version": "f33a7623f727bed53dff81ca73da5fa6829f6edc",
+  "productVersion": "1.101.23900",
+  "hash": "86b336521cc5ae73ff4b6fab564baebe4a9a3e9a",
+  "timestamp": "1759168988166",
+  "sha256hash": "686d8121a2b4dc0137f9a02d4b1df6bc2f7397a54726cffac1440f720893b491"
 }
