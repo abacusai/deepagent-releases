@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.101.24000/DeepAgent-linux-arm64-1.101.24000.tar.gz",
-  "name": "1.101.24000",
-  "version": "dd401f06daab33dfc10e8525431b8c271e60dc5e",
-  "productVersion": "1.101.24000",
-  "hash": "f03556c5a09897593739669a2136c19448a36d83",
-  "timestamp": "1759763642270",
-  "sha256hash": "e259ef4af7ce17d8b1681d91fcdef4065565181c531da8cf79195d9affd0cac2"
+  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.101.24100/DeepAgent-linux-arm64-1.101.24100.tar.gz",
+  "name": "1.101.24100",
+  "version": "8cef7a7df3e3c12e5adc159fe1ed9db2c0357ae9",
+  "productVersion": "1.101.24100",
+  "hash": "9d8f8ceaef7fbd7f3d4db673913f9cbe32dcf4f0",
+  "timestamp": "1760339139575",
+  "sha256hash": "4b6d6bc7a61cf87c6538c509e6abccdfce0cb0f097ea29500fe2b4afba595591"
 }
