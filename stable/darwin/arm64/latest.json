@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.101.24000/DeepAgent-darwin-arm64-1.101.24000.zip",
-  "name": "1.101.24000",
-  "version": "dd401f06daab33dfc10e8525431b8c271e60dc5e",
-  "productVersion": "1.101.24000",
-  "hash": "3c5733f601842ae84b5f89a7bd9f780b13befd44",
-  "timestamp": "1759764171178",
-  "sha256hash": "2d58035651f25c3ff59c3acf1830a3f49cd5beb66a1518693da50346a4afaa42"
+  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.101.24103/DeepAgent-darwin-arm64-1.101.24103.zip",
+  "name": "1.101.24103",
+  "version": "d5de1b4aa010b0f0f988685012053c9ba897a75a",
+  "productVersion": "1.101.24103",
+  "hash": "fe09f5abc01ff6ea22c7d88866f087420b106219",
+  "timestamp": "1760544371132",
+  "sha256hash": "7682c3eda194edf6f56a6abc13331403838a438c514a1768d288237acf46125d"
 }
