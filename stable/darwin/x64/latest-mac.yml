@@ -1,0 +1,11 @@
+version: 1.101.24127
+files:
+  - url: DeepAgent Listener-1.101.24127-mac.zip
+    sha512: McTXL4BEPeYS1aVET9YY2Gap94HYwTZOaIYephAm2R2+joRtfmJOQn0UU2iX5BibdIOTQknUQiDzictI/iIZag==
+    size: 251838505
+  - url: DeepAgent Listener-1.101.24127.dmg
+    sha512: 336JDObUjHteYpOvjIBdfYTGCptGqxuS+O9yel3iCp7e3tRiPDmxyjSA9cuBT3sqF1AGX0d7DOmRvw6kyU8pIA==
+    size: 260911727
+path: DeepAgent Listener-1.101.24127-mac.zip
+sha512: McTXL4BEPeYS1aVET9YY2Gap94HYwTZOaIYephAm2R2+joRtfmJOQn0UU2iX5BibdIOTQknUQiDzictI/iIZag==
+releaseDate: '2025-10-17T14:05:34.980Z'
