@@ -1,8 +1,8 @@
-version: 1.101.24129
+version: 1.101.24206
 files:
-  - url: DeepAgent Listener-1.101.24129-x64-Setup.exe
-    sha512: 6eu2c+m44tB/Izqdxq+zlVCyZ2Wf/e6O5rMOC7HUfJehaNPUk4i+LRNOmzHEMnxA2YPlzuTHMQwDLh+JOjyR/g==
-    size: 200005837
-path: DeepAgent Listener-1.101.24129-x64-Setup.exe
-sha512: 6eu2c+m44tB/Izqdxq+zlVCyZ2Wf/e6O5rMOC7HUfJehaNPUk4i+LRNOmzHEMnxA2YPlzuTHMQwDLh+JOjyR/g==
-releaseDate: '2025-10-17T17:07:53.740Z'
+  - url: DeepAgent Listener-1.101.24206-x64-Setup.exe
+    sha512: 4Qx54Sanwr0T2u28Msn6aS1hD1pvwr2u/8nx25uASEi4/3UiBZMfcvJ7AsqtKolZ2Kw49BIXF7z+o7VkKjTPuQ==
+    size: 191288951
+path: DeepAgent Listener-1.101.24206-x64-Setup.exe
+sha512: 4Qx54Sanwr0T2u28Msn6aS1hD1pvwr2u/8nx25uASEi4/3UiBZMfcvJ7AsqtKolZ2Kw49BIXF7z+o7VkKjTPuQ==
+releaseDate: '2025-10-20T21:59:48.246Z'
