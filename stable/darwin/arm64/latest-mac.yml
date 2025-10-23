@@ -1,11 +1,11 @@
-version: 1.101.24129
+version: 1.101.24230
 files:
-  - url: DeepAgent Listener-1.101.24129-arm64-mac.zip
-    sha512: pp1MYr4grmjNgZuwd1IxpP6Xt6+LA9a7zPLmdml5RG1emgFkq5ANEnfcSX137JuMsn+C9iJ5+hd91ONtHevbCw==
-    size: 239676263
-  - url: DeepAgent Listener-1.101.24129-arm64.dmg
-    sha512: 2F3UZ6FFbQ692YVZ3AEElfZ17WFral2A8j8skXOVnRD7cQB4H5tImgTEuX/O2YdEjPGXNdYdqoT9cCPMCcsqOw==
-    size: 248720727
-path: DeepAgent Listener-1.101.24129-arm64-mac.zip
-sha512: pp1MYr4grmjNgZuwd1IxpP6Xt6+LA9a7zPLmdml5RG1emgFkq5ANEnfcSX137JuMsn+C9iJ5+hd91ONtHevbCw==
-releaseDate: '2025-10-17T16:51:30.507Z'
+  - url: https://static.abacus.ai/deepagent/releases/1.101.24230/DeepAgentListener-darwin-arm64-1.101.24230.zip
+    sha512: UqUL4WEaZoXtt6camRiYoxwfGS0xN1dHyoCVjPRi4rwqQ5V07qpkqzy9+9d6JkSdYO5UFiK9s2C/NGbMU+WloQ==
+    size: 233967683
+  - url: https://static.abacus.ai/deepagent/releases/1.101.24230/DeepAgentListener.arm64.1.101.24230.dmg
+    sha512: /CqCg630G3cG7VK4tUB212eOw2su77HSt4FZj1bXr77jNIjfnl0vc0QNMpA/u5bRYJd/9EMRfBGBjH2VTCbWvQ==
+    size: 233709265
+path: https://static.abacus.ai/deepagent/releases/1.101.24230/DeepAgentListener-darwin-arm64-1.101.24230.zip
+sha512: UqUL4WEaZoXtt6camRiYoxwfGS0xN1dHyoCVjPRi4rwqQ5V07qpkqzy9+9d6JkSdYO5UFiK9s2C/NGbMU+WloQ==
+releaseDate: '2025-10-23T09:51:12.571Z'
