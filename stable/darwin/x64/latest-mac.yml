@@ -1,11 +1,11 @@
-version: 1.101.24231
+version: 1.105.14508
 files:
-  - url: https://static.abacus.ai/deepagent/releases/1.101.24231/DeepAgentListener-darwin-x64-1.101.24231.zip
-    sha512: YX0WBDUe4k42lEGQ+vRjczaoK1teZ4tpET+P1OuQxGiAmtTRiondK5pusu8ruWFofBN2zohTFvPjGv/sJUZ3/Q==
-    size: 246381815
-  - url: https://static.abacus.ai/deepagent/releases/1.101.24231/DeepAgentListener.x64.1.101.24231.dmg
-    sha512: VqinxT3ndHbLl2hDzn+3BpD1og/DT7U7PvwSkitcex41txe98eBBsDJbIMsWLL4AXtDkVfFzK9Bgc9XeqGXv7A==
-    size: 245418727
-path: https://static.abacus.ai/deepagent/releases/1.101.24231/DeepAgentListener-darwin-x64-1.101.24231.zip
-sha512: YX0WBDUe4k42lEGQ+vRjczaoK1teZ4tpET+P1OuQxGiAmtTRiondK5pusu8ruWFofBN2zohTFvPjGv/sJUZ3/Q==
-releaseDate: '2025-10-23T15:08:34.265Z'
+  - url: https://static.abacus.ai/abacusai/releases/1.105.14508/AbacusAIListener-darwin-x64-1.105.14508.zip
+    sha512: E0dwEnQ/hXviBnIkGTy/HjON/Ifhl2KKKXhJSyBByNv8r8ltDLVXZhwTxx7JuXEm7UK6jh1cghuMAD9yMgrn2Q==
+    size: 246621092
+  - url: https://static.abacus.ai/abacusai/releases/1.105.14508/AbacusAIListener.x64.1.105.14508.dmg
+    sha512: 1ALWwJPKr1GZzSmYqwi6GpY74NMYdO4zC6FYtbK4uF+7qhclrsFcmu2ZM1Hut3ky/NtZEdgDID8fBok1NqIqMw==
+    size: 245781081
+path: https://static.abacus.ai/abacusai/releases/1.105.14508/AbacusAIListener-darwin-x64-1.105.14508.zip
+sha512: E0dwEnQ/hXviBnIkGTy/HjON/Ifhl2KKKXhJSyBByNv8r8ltDLVXZhwTxx7JuXEm7UK6jh1cghuMAD9yMgrn2Q==
+releaseDate: '2025-11-14T07:36:27.428Z'
