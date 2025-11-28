@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.101.24231/DeepAgent-linux-x64-1.101.24231.tar.gz",
-  "name": "1.101.24231",
-  "version": "af6f69d99d8051dbe32fe7124c5bd819b57b5939",
-  "productVersion": "1.101.24231",
-  "hash": "e1e26b6012de23f7a24c36db7d97d734c8ec115a",
-  "timestamp": "1761232177547",
-  "sha256hash": "c894d43ceba77d447d551faa32df63518567dd38b5f9e051d933bf830518c97d"
+  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.106.24712/AbacusAI-linux-x64-1.106.24712.tar.gz",
+  "name": "1.106.24712",
+  "version": "6c7ac17f2dc29a73297d5b339772cb1f989907c1",
+  "productVersion": "1.106.24712",
+  "hash": "95ac64bd703e7d50b46aa986efb605e1d4c6b0d2",
+  "timestamp": "1764320251937",
+  "sha256hash": "e85a69b0bd3c668d0dd270dbe6e5da3a9d9327bc367f19f8c0fd52150f824204"
 }
