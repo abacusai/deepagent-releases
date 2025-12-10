@@ -1,8 +1,8 @@
-version: 1.101.24231
+version: 1.106.24901
 files:
-  - url: https://static.abacus.ai/deepagent/releases/1.101.24231/DeepAgentListenerSetup-x64-1.101.24231.exe
-    sha512: V0TwHKOLudNDyA9AdFCYyb4fTkFQ8yTH4uoOC0wQKPgLa7yqq+JWevtZzsFBIBPJHobzUBxAd73F/4ymskP25Q==
-    size: 191287848
-path: https://static.abacus.ai/deepagent/releases/1.101.24231/DeepAgentListenerSetup-x64-1.101.24231.exe
-sha512: V0TwHKOLudNDyA9AdFCYyb4fTkFQ8yTH4uoOC0wQKPgLa7yqq+JWevtZzsFBIBPJHobzUBxAd73F/4ymskP25Q==
-releaseDate: '2025-10-23T15:21:56.967Z'
+  - url: https://static.abacus.ai/abacusai/releases/1.106.24901/AbacusAIListenerSetup-x64-1.106.24901.exe
+    sha512: mSy/DlEDFPvwCdm0bvPAFTKxFWM2cN5L+Cp5qp1EHthTW7RldtdQSokfeRqVaNz5OIivIVT2iQ62CKd4msqbEg==
+    size: 206837248
+path: https://static.abacus.ai/abacusai/releases/1.106.24901/AbacusAIListenerSetup-x64-1.106.24901.exe
+sha512: mSy/DlEDFPvwCdm0bvPAFTKxFWM2cN5L+Cp5qp1EHthTW7RldtdQSokfeRqVaNz5OIivIVT2iQ62CKd4msqbEg==
+releaseDate: '2025-12-10T05:22:47.967Z'
