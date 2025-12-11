@@ -1,7 +1,7 @@
 <div id="codellm-logo" align="center">
     <br />
     <img src="./icons/codellm.svg" alt="CodeLLM Logo" width="200"/>
-    <h1>DeepAgent Desktop</h1>
+    <h1>Abacus AI Desktop</h1>
     <h4>Your All-In-One AI Platform</h4>
 </div>
 
@@ -15,7 +15,7 @@ Automate all your work with state of the art AI and the most powerful agent in t
 
 [![Get Started Here]][GetStarted]
 
-https://deepagent-desktop.abacus.ai/
+https://desktop.abacus.ai/
 
 
 </div>
