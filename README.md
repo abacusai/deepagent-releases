@@ -1,3 +1,5 @@
+# Abacus AI Desktop
+
 <div id="codellm-logo" align="center">
     <br />
     <img src="./icons/codellm.svg" alt="CodeLLM Logo" width="200"/>
@@ -15,8 +17,14 @@ Automate all your work with state of the art AI and the most powerful agent in t
 
 [![Get Started Here]][GetStarted]
 
+The Desktop App:
 https://desktop.abacus.ai/
 
+The VSCode Extension:
+https://marketplace.visualstudio.com/items?itemName=AbacusAI.abacusai-agent
+
+The CLI:
+https://www.npmjs.com/package/@abacus-ai/cli
 
 </div>
 
