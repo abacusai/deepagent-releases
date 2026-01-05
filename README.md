@@ -18,7 +18,9 @@ Automate all your work with state of the art AI and the most powerful agent in t
 [![Get Started Here]][GetStarted]
 
 [Desktop App](https://desktop.abacus.ai/)
+
 [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=AbacusAI.abacusai-agent)
+
 [CLI](https://www.npmjs.com/package/@abacus-ai/cli)
 
 </div>
