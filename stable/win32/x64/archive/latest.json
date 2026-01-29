@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.106.24908/AbacusAI-win32-x64-1.106.24908.zip",
-  "name": "1.106.24908",
-  "version": "7ade9196f025150048530a5778a2f4a7a7e70ee2",
-  "productVersion": "1.106.24908",
-  "hash": "8a83f001fe2de9ccc6bb3cc1aae9c1a55d26b947",
-  "timestamp": "1765448634722",
-  "sha256hash": "ffc153f7456d6e11e133215bafb88c206c5e43f850162f38cd05810bfdbe2237"
+  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.106.2403/AbacusAI-win32-x64-1.106.2403.zip",
+  "name": "1.106.2403",
+  "version": "308c6cda19d10fc907b62b74e689c7d2f526a875",
+  "productVersion": "1.106.2403",
+  "hash": "c578743aee00efb7b7bc03241023ab7220b2e56c",
+  "timestamp": "1769675595434",
+  "sha256hash": "5e177add180a7a6898f65d1282ebbc9b13cefdc526be758720b9d7d6de48be53"
 }
