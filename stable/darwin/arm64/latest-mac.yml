@@ -1,11 +1,11 @@
-version: 1.106.24908
+version: 1.106.2807
 files:
-  - url: https://static.abacus.ai/abacusai/releases/1.106.24908/AbacusAIListener-darwin-arm64-1.106.24908.zip
-    sha512: VBJjJBn3kE9zCbC07QU2yyRcZYF8vtnBpinIJ+My1PzM5K2aazXBOaZNYx2hRrnRf0tfLDAR2RgbClMTy/mZRQ==
-    size: 232731064
-  - url: https://static.abacus.ai/abacusai/releases/1.106.24908/AbacusAIListener.arm64.1.106.24908.dmg
-    sha512: ZHs+mvogvRGy6hZ8GlGJdgo82dvyvfyyaekTz9DHPdMXjTYMiyKDlsB4NKUMs2mLNTD3je3JL/i1oCGQSY3mCA==
-    size: 232414699
-path: https://static.abacus.ai/abacusai/releases/1.106.24908/AbacusAIListener-darwin-arm64-1.106.24908.zip
-sha512: VBJjJBn3kE9zCbC07QU2yyRcZYF8vtnBpinIJ+My1PzM5K2aazXBOaZNYx2hRrnRf0tfLDAR2RgbClMTy/mZRQ==
-releaseDate: '2025-12-11T10:06:08.794Z'
+  - url: https://static.abacus.ai/abacusai/releases/1.106.2807/AbacusAIListener-darwin-arm64-1.106.2807.zip
+    sha512: Q+Q+pQDy3SvM1L0TKA5XGokiOHU/A8SDGewN2N+KGfo5+scujxGZSMm+4miQJYc1uzNaAO/oFDYHfEtVJ3VskQ==
+    size: 233753249
+  - url: https://static.abacus.ai/abacusai/releases/1.106.2807/AbacusAIListener.arm64.1.106.2807.dmg
+    sha512: xnnNTtH3qA0IE0rC+mfnKO1O8SufVvtFXHwQHWFZ20tyBF8vpQW76NixUEfU0D2+x/kwH8mjLQxGmCPgl3SvOw==
+    size: 233039069
+path: https://static.abacus.ai/abacusai/releases/1.106.2807/AbacusAIListener-darwin-arm64-1.106.2807.zip
+sha512: Q+Q+pQDy3SvM1L0TKA5XGokiOHU/A8SDGewN2N+KGfo5+scujxGZSMm+4miQJYc1uzNaAO/oFDYHfEtVJ3VskQ==
+releaseDate: '2026-02-26T23:32:55.626Z'
