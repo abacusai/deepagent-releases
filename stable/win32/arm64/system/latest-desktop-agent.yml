@@ -1,0 +1,8 @@
+version: 1.106.21310
+files:
+  - url: https://static.abacus.ai/abacusai/releases/1.106.21310/AbacusAIDesktopSetup-arm64-1.106.21310.exe
+    sha512: 8gGEBy7FR6HAikceCjkV1AJ99eNouf0BP1UiZWZAYY+ENL2IaTFG7jjqHc/tH/Px7BzCcrXKksH/bPe8DWRnmQ==
+    size: 1132188824
+path: https://static.abacus.ai/abacusai/releases/1.106.21310/AbacusAIDesktopSetup-arm64-1.106.21310.exe
+sha512: 8gGEBy7FR6HAikceCjkV1AJ99eNouf0BP1UiZWZAYY+ENL2IaTFG7jjqHc/tH/Px7BzCcrXKksH/bPe8DWRnmQ==
+releaseDate: '2026-03-31T09:30:26.821Z'
