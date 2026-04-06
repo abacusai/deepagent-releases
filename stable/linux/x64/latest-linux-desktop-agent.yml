@@ -1,0 +1,9 @@
+version: 1.106.21202
+files:
+  - url: https://static.abacus.ai/abacusai/releases/1.106.21202/AbacusAIDesktop-linux-x64-1.106.21202.AppImage
+    sha512: uVv0UUZrXZexedVBrLbZxkYFgGdENLfrVaxWK9NeyMI4XnotJZ30sM+KCJDVxoRGT4VysbQT5b1/P1imaH9m4w==
+    size: 807126028
+    blockMapSize: 836640
+path: https://static.abacus.ai/abacusai/releases/1.106.21202/AbacusAIDesktop-linux-x64-1.106.21202.AppImage
+sha512: uVv0UUZrXZexedVBrLbZxkYFgGdENLfrVaxWK9NeyMI4XnotJZ30sM+KCJDVxoRGT4VysbQT5b1/P1imaH9m4w==
+releaseDate: '2026-03-24T19:14:22.510Z'
