@@ -1,0 +1,8 @@
+version: 1.106.21416
+files:
+  - url: https://static.abacus.ai/abacusai/releases/1.106.21416/AbacusAIListenerSetup-x64-1.106.21416.exe
+    sha512: lN2iIkVoUBSxfI2+00GmK1c88NhRuGCBUv/fVVr/G4OvEpWMuthMlWgOn2xhKbVTd6+KJY1Z/ISWhdJmBI1Tgg==
+    size: 207523720
+path: https://static.abacus.ai/abacusai/releases/1.106.21416/AbacusAIListenerSetup-x64-1.106.21416.exe
+sha512: lN2iIkVoUBSxfI2+00GmK1c88NhRuGCBUv/fVVr/G4OvEpWMuthMlWgOn2xhKbVTd6+KJY1Z/ISWhdJmBI1Tgg==
+releaseDate: '2026-04-07T14:10:03.358Z'
