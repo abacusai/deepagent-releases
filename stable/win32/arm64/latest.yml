@@ -1,0 +1,8 @@
+version: 1.106.21408
+files:
+  - url: https://static.abacus.ai/abacusai/releases/1.106.21408/AbacusAIListenerSetup-arm64-1.106.21408.exe
+    sha512: KF/3Pw/mbKMpUTe+Cjh1oFPFvUVATUgi21KafgV9enY0mU4UaBMPrTbk37FJZnNP82BbCxXydAzKSJB9uiPQyg==
+    size: 210783112
+path: https://static.abacus.ai/abacusai/releases/1.106.21408/AbacusAIListenerSetup-arm64-1.106.21408.exe
+sha512: KF/3Pw/mbKMpUTe+Cjh1oFPFvUVATUgi21KafgV9enY0mU4UaBMPrTbk37FJZnNP82BbCxXydAzKSJB9uiPQyg==
+releaseDate: '2026-04-07T07:43:29.972Z'
