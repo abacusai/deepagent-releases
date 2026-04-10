@@ -1,0 +1,9 @@
+version: 1.106.21424
+files:
+  - url: https://static.abacus.ai/abacusai/releases/1.106.21424/AbacusAIDesktop-linux-x64-1.106.21424.AppImage
+    sha512: +5+yaUoMmjuJ//pziU7Pqjoowtf1/aIQu+b7/1Bi/aN4boYcDBFmoM+1R80fIIDLOSLY0p8bQyvbS6gmt5ueAg==
+    size: 577764124
+    blockMapSize: 600880
+path: https://static.abacus.ai/abacusai/releases/1.106.21424/AbacusAIDesktop-linux-x64-1.106.21424.AppImage
+sha512: +5+yaUoMmjuJ//pziU7Pqjoowtf1/aIQu+b7/1Bi/aN4boYcDBFmoM+1R80fIIDLOSLY0p8bQyvbS6gmt5ueAg==
+releaseDate: '2026-04-10T22:36:45.016Z'
