@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.106.24908/AbacusAIUserSetup-arm64-1.106.24908.exe",
-  "name": "1.106.24908",
-  "version": "7ade9196f025150048530a5778a2f4a7a7e70ee2",
-  "productVersion": "1.106.24908",
-  "hash": "905ffd6dda04d7c8bdd2e9ca91b71444dcc2cabd",
-  "timestamp": "1765448066308",
-  "sha256hash": "d5fcca175b0b9dfc6c6fcf5eb260b71cb4383095554606b8985159c91a8a71c8"
+  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.106.21501/AbacusAIUserSetup-arm64-1.106.21501.exe",
+  "name": "1.106.21501",
+  "version": "3684302fb7980dd6196d4d8dce2893ae294f27ce",
+  "productVersion": "1.106.21501",
+  "hash": "241bd470d41b69a9e501f1458b0598c561d70b37",
+  "timestamp": "1776447169616",
+  "sha256hash": "58aaa241b75d6bc19fb0bca4191a04f792e76161a10f506179f2998c3dcc4847"
 }
