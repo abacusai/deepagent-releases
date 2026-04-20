@@ -1,8 +1,8 @@
-version: 1.106.24908
+version: 1.106.21601
 files:
-  - url: https://static.abacus.ai/abacusai/releases/1.106.24908/AbacusAIListenerSetup-arm64-1.106.24908.exe
-    sha512: R60qSr53IT1AspSsBfPzWDhxcRGPo4biwNRYZlJEJfohKgCX/wryRftAYsWPC/r5CR3vp0I5gwYO4yqHjW1ncg==
-    size: 210113232
-path: https://static.abacus.ai/abacusai/releases/1.106.24908/AbacusAIListenerSetup-arm64-1.106.24908.exe
-sha512: R60qSr53IT1AspSsBfPzWDhxcRGPo4biwNRYZlJEJfohKgCX/wryRftAYsWPC/r5CR3vp0I5gwYO4yqHjW1ncg==
-releaseDate: '2025-12-11T10:06:25.589Z'
+  - url: https://static.abacus.ai/abacusai/releases/1.106.21601/AbacusAIListenerSetup-arm64-1.106.21601.exe
+    sha512: Qv4AJrPN7/dmtG/RFq12oBT8QslP9gQknVln8q5H3QvlfXcSgVSIq5bbcAcn4uWWg3jxWJVnKR2iWVRnp0worQ==
+    size: 210779760
+path: https://static.abacus.ai/abacusai/releases/1.106.21601/AbacusAIListenerSetup-arm64-1.106.21601.exe
+sha512: Qv4AJrPN7/dmtG/RFq12oBT8QslP9gQknVln8q5H3QvlfXcSgVSIq5bbcAcn4uWWg3jxWJVnKR2iWVRnp0worQ==
+releaseDate: '2026-04-20T13:19:43.222Z'
