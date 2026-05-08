@@ -1,0 +1,15 @@
+version: 1.106.21801
+files:
+  - url: https://static.abacus.ai/abacusai/releases/1.106.21801/AbacusAIDesktop-linux-x64-1.106.21801.AppImage
+    sha512: R/qF9CnzkiA6A+0ek39nV0OzZRlK+KLNliLjhesWvG7D4bwuSawLSj8U8pk2UCq//C2PXMRMGmI7lHH3oivU3A==
+    size: 711152719
+    blockMapSize: 738403
+  - url: https://static.abacus.ai/abacusai/releases/1.106.21801/da-desktop_1.106.21801_amd64.deb
+    sha512: tAvKQkmosesHqMiY9ygWGk7YSZ3q/nPkE9GNIZimrZ25zYoiUu4aCX6lLdxMydWLwoPlsFpG7gYFV/j1ybQMHg==
+    size: 632518100
+  - url: https://static.abacus.ai/abacusai/releases/1.106.21801/da-desktop-1.106.21801.x86_64.rpm
+    sha512: 3TKu2/2iuIS94WMriF3gufdGCfFDfYR4JkhIvUcvQcpn+e8ZottiH9oC6oJRlQWZQTFj7RmV8JSLn5mSbccyTg==
+    size: 598617425
+path: https://static.abacus.ai/abacusai/releases/1.106.21801/AbacusAIDesktop-linux-x64-1.106.21801.AppImage
+sha512: R/qF9CnzkiA6A+0ek39nV0OzZRlK+KLNliLjhesWvG7D4bwuSawLSj8U8pk2UCq//C2PXMRMGmI7lHH3oivU3A==
+releaseDate: '2026-05-08T17:56:59.383Z'
