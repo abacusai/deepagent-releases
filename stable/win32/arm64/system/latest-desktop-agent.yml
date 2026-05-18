@@ -1,0 +1,8 @@
+version: 1.106.22001
+files:
+  - url: https://static.abacus.ai/abacusai/releases/1.106.22001/AbacusAIDesktopSetup-arm64-1.106.22001.exe
+    sha512: +zeuQNw2WUToE5aDEYMKdKoYfQZcPbpm3eDdcsKsUshriGnga41jeKf95fuiR/UVhvwaqHoQnbf7ZCIEPos/vg==
+    size: 708454576
+path: https://static.abacus.ai/abacusai/releases/1.106.22001/AbacusAIDesktopSetup-arm64-1.106.22001.exe
+sha512: +zeuQNw2WUToE5aDEYMKdKoYfQZcPbpm3eDdcsKsUshriGnga41jeKf95fuiR/UVhvwaqHoQnbf7ZCIEPos/vg==
+releaseDate: '2026-05-18T17:39:50.673Z'
