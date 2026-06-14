@@ -1,0 +1,8 @@
+version: 1.106.22400
+files:
+  - url: https://static.abacus.ai/abacusai/releases/1.106.22400/AbacusAIDesktopSetup-arm64-1.106.22400.exe
+    sha512: cgkx8Xm7ajw/HT1+lFcaq+jky/dG+NCTIKWxh73kxPRS0/oEjM8iQljRE7GA+5SMeTJ/9ktNShADpH8jOf5CSA==
+    size: 706210672
+path: https://static.abacus.ai/abacusai/releases/1.106.22400/AbacusAIDesktopSetup-arm64-1.106.22400.exe
+sha512: cgkx8Xm7ajw/HT1+lFcaq+jky/dG+NCTIKWxh73kxPRS0/oEjM8iQljRE7GA+5SMeTJ/9ktNShADpH8jOf5CSA==
+releaseDate: '2026-06-14T17:52:50.818Z'
