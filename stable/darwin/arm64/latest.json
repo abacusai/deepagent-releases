@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.106.24908/AbacusAI-darwin-arm64-1.106.24908.zip",
-  "name": "1.106.24908",
-  "version": "7ade9196f025150048530a5778a2f4a7a7e70ee2",
-  "productVersion": "1.106.24908",
-  "hash": "8e043d85730b32a389bc43b0a3f159f31877f65c",
-  "timestamp": "1765448417940",
-  "sha256hash": "0bad599c46452d384cb572512869d1cfe079573376e0498ef0925f7bdeb20016"
+  "url": "https://github.com/abacusai/deepagent-releases/releases/download/1.106.22405/AbacusAIDesktop-darwin-arm64-1.106.22405.zip",
+  "name": "1.106.22405",
+  "version": "ba91d43caa59ba1f5901a906bc25be6fcb9edb39",
+  "productVersion": "1.106.22405",
+  "hash": "050e692b722434d3eb5b4f1b6df0e103cc049ac4",
+  "timestamp": "1781529880052",
+  "sha256hash": "97a06fd20e0bd10991b1a8afc1a8a0b78664c09fb8e27b21d3e7a9ca1e10edf6"
 }
