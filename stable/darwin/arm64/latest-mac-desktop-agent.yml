@@ -1,0 +1,11 @@
+version: 2.0.0
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.0.0/AbacusAIDesktop-darwin-arm64-2.0.0.zip
+    sha512: UFaUd+pAZv8SSdnOQIjBY/jCFp8svQ7ZESy3n3SsHX2u2mgreIAjPQosMmR88PK6xN2msN6eoAN8VTCWt73Ltw==
+    size: 757290098
+  - url: https://static.abacus.ai/abacusai/releases/2.0.0/AbacusAIDesktop.arm64.2.0.0.dmg
+    sha512: /PDbL9fIWlk8uHT2WkIxoThBy2TbEdX8jsEPHwnqGLr5EetlxkcNQ0WsII9vXx/sZwq1ci5i9hHSzJmpwNb1yg==
+    size: 758156315
+path: https://static.abacus.ai/abacusai/releases/2.0.0/AbacusAIDesktop-darwin-arm64-2.0.0.zip
+sha512: UFaUd+pAZv8SSdnOQIjBY/jCFp8svQ7ZESy3n3SsHX2u2mgreIAjPQosMmR88PK6xN2msN6eoAN8VTCWt73Ltw==
+releaseDate: '2026-07-27T15:01:23.576Z'
