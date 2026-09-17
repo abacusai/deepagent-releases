@@ -1,0 +1,11 @@
+version: 2.2.93
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.93-insider/AbacusAIDesktop-darwin-arm64-2.2.93-insider.zip
+    sha512: shhybzDqlv4j0SuXSO/rLjmTKSDlnZA3Bmcm8gc2BITvGWyd1VKbLFovI9RyM/ULwUShFg0hcoLicATFpGzXag==
+    size: 760940855
+  - url: https://static.abacus.ai/abacusai/releases/2.2.93-insider/AbacusAIDesktop.arm64.2.2.93-insider.dmg
+    sha512: a51yBj8rSrKDAVHj5MHXDU9v6RjxRB602kgOtXaxOMtQeaSW56ikN5LoHbailc2U2SJhX3/REOqztwfCnX3DQg==
+    size: 760783749
+path: https://static.abacus.ai/abacusai/releases/2.2.93-insider/AbacusAIDesktop-darwin-arm64-2.2.93-insider.zip
+sha512: shhybzDqlv4j0SuXSO/rLjmTKSDlnZA3Bmcm8gc2BITvGWyd1VKbLFovI9RyM/ULwUShFg0hcoLicATFpGzXag==
+releaseDate: '2026-09-17T14:10:33.197Z'
