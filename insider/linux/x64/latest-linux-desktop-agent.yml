@@ -1,0 +1,15 @@
+version: 2.2.91
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.91-insider/AbacusAIDesktop-linux-x64-2.2.91.AppImage
+    sha512: dxvWoruWPdMTTCOe0ebDcsdJZ4gE1U5/rzPn7SG7CObBkCk5zsjo/HUtOi4Sj6PRywSO2cFDjmXFymH6vflfXA==
+    size: 786635942
+    blockMapSize: 818362
+  - url: https://static.abacus.ai/abacusai/releases/2.2.91-insider/abacusai-app_2.2.91_amd64.deb
+    sha512: uhsE1Z58Iw952sGEZNUWTiDymmJL6FlbVAdnAjR53plwWH+Qwr78cyEaZvu/BD8sKpAAlZJfXf4OSMf67rVyUA==
+    size: 712569072
+  - url: https://static.abacus.ai/abacusai/releases/2.2.91-insider/abacusai-app-2.2.91-el8.x86_64.rpm
+    sha512: Fh8FMtMWYOK7sQgy1oYyhjAOIPiXw3S6Ai1ODc6jpUlxUW7ckokNvVuoO/hzEDXr6qb+jjXy72GbNe52p5WTfg==
+    size: 663274545
+path: https://static.abacus.ai/abacusai/releases/2.2.91-insider/AbacusAIDesktop-linux-x64-2.2.91.AppImage
+sha512: dxvWoruWPdMTTCOe0ebDcsdJZ4gE1U5/rzPn7SG7CObBkCk5zsjo/HUtOi4Sj6PRywSO2cFDjmXFymH6vflfXA==
+releaseDate: '2026-09-17T12:53:49.046Z'
