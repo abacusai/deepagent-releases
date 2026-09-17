@@ -1,0 +1,11 @@
+version: 2.2.90
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.90-insider/AbacusAIListener-darwin-x64-2.2.90-insider.zip
+    sha512: G08xbRqeXf/az5u9oJFM6h07f7SOQMsK7pJy8x/qpFINoiZcDqP8RDS77rbk56T5yOE9+JF+Ll7BYg3skt0B4w==
+    size: 263304100
+  - url: https://static.abacus.ai/abacusai/releases/2.2.90-insider/AbacusAIListener.x64.2.2.90-insider.dmg
+    sha512: rn5yJGDWbT4n7iY9+I4NXL2iNdVakN8oxKxs/rPt65wXvy4qBLIl+PgZouF0MH7TdHkJGP4FXDl6gb8XfeW3ug==
+    size: 260690105
+path: https://static.abacus.ai/abacusai/releases/2.2.90-insider/AbacusAIListener-darwin-x64-2.2.90-insider.zip
+sha512: G08xbRqeXf/az5u9oJFM6h07f7SOQMsK7pJy8x/qpFINoiZcDqP8RDS77rbk56T5yOE9+JF+Ll7BYg3skt0B4w==
+releaseDate: '2026-09-17T11:46:01.919Z'
