@@ -1,0 +1,8 @@
+version: 2.2.93
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.93-insider/AbacusAIDesktopSetup-x64-2.2.93-insider.exe
+    sha512: EOC4qnEhm55OQxeF5LBqDdh89VZY1su/k+VEddy53WrnW1rJTeAp59lA/IB+PSxaTwjDsp2yIScGMYYOjpN3lw==
+    size: 795829776
+path: https://static.abacus.ai/abacusai/releases/2.2.93-insider/AbacusAIDesktopSetup-x64-2.2.93-insider.exe
+sha512: EOC4qnEhm55OQxeF5LBqDdh89VZY1su/k+VEddy53WrnW1rJTeAp59lA/IB+PSxaTwjDsp2yIScGMYYOjpN3lw==
+releaseDate: '2026-09-17T14:21:42.203Z'
