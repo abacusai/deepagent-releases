@@ -1,0 +1,8 @@
+version: 2.2.95
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.95-insider/AbacusAIListenerSetup-arm64-2.2.95-insider.exe
+    sha512: /js+bFoXG/IEDleD8guK1589lrSxwCr0uWDjqFhfeO1+vDt7TVBHn6Xzb/xIXNY7w+ojDNYk0Ewc2MhulincZg==
+    size: 212378472
+path: https://static.abacus.ai/abacusai/releases/2.2.95-insider/AbacusAIListenerSetup-arm64-2.2.95-insider.exe
+sha512: /js+bFoXG/IEDleD8guK1589lrSxwCr0uWDjqFhfeO1+vDt7TVBHn6Xzb/xIXNY7w+ojDNYk0Ewc2MhulincZg==
+releaseDate: '2026-09-17T17:34:04.645Z'
