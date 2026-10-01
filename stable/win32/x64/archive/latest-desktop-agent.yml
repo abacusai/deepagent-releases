@@ -1,0 +1,9 @@
+version: 2.2.4
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.4/AbacusAIDesktopSetup-x64-2.2.4.exe
+    sha512: nOoWbCYeZcj98IVgOdiAPkR8y4zN8ecgxDzbay9W0oCQAKt+kodPxWWGsxqYCDq6GZCDfkslBm8XqBNbUWLmfQ==
+    size: 750649360
+path: https://static.abacus.ai/abacusai/releases/2.2.4/AbacusAIDesktopSetup-x64-2.2.4.exe
+sha512: nOoWbCYeZcj98IVgOdiAPkR8y4zN8ecgxDzbay9W0oCQAKt+kodPxWWGsxqYCDq6GZCDfkslBm8XqBNbUWLmfQ==
+releaseDate: '2026-10-01T06:06:12.000Z'
+minimumVersion: 2.2.4
