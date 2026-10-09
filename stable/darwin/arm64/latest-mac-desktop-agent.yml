@@ -1,0 +1,12 @@
+version: 2.2.9
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.9/AbacusAIDesktop-darwin-arm64-2.2.9.zip
+    sha512: NTrBisEPdz/kQK1sSthH9zFMos7tRJ3tLED/bzsQZna6fAnyRIKI/ZIlw5h1TulzmneYqAP/90Ls4yRok0GbOg==
+    size: 675974044
+  - url: https://static.abacus.ai/abacusai/releases/2.2.9/AbacusAIDesktop.arm64.2.2.9.dmg
+    sha512: HrdCp70/u6yC0ibX+X2n69Jc5W41wGOV2Ck8r+MIv3mgFEwJvybN+zL7fSZkaswZP0dFLyrzFL66ieeNQajP/A==
+    size: 679894625
+path: https://static.abacus.ai/abacusai/releases/2.2.9/AbacusAIDesktop-darwin-arm64-2.2.9.zip
+sha512: NTrBisEPdz/kQK1sSthH9zFMos7tRJ3tLED/bzsQZna6fAnyRIKI/ZIlw5h1TulzmneYqAP/90Ls4yRok0GbOg==
+releaseDate: '2026-10-09T16:16:26.390Z'
+stagingPercentage: 100

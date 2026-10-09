@@ -1,0 +1,16 @@
+version: 2.2.9
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.9/AbacusAIDesktop-linux-x64-2.2.9.AppImage
+    sha512: cWn5437INHmAvE91AzNsU83FefUBAHfrC7ejTxux/N/zu5ZZKqAF0+QY124b/n1AgFu4uIhN6LwKt+/p/Arsmg==
+    size: 701214163
+    blockMapSize: 728551
+  - url: https://static.abacus.ai/abacusai/releases/2.2.9/abacusai-app_2.2.9_amd64.deb
+    sha512: UEnz29Mj6AdipuqXQy4tjxZCPQ2XjumHUG7UALOoKImuQKV+xsvHXrBvOzUp7mhJHjDfDQU/yFT8XqfGaQbSFA==
+    size: 658949580
+  - url: https://static.abacus.ai/abacusai/releases/2.2.9/abacusai-app-2.2.9-el8.x86_64.rpm
+    sha512: JcJya+8nlehomFZ5sPw858zXzq/HEe11D9G+LngeSRpYJ9860XkZNYDwHXi+cO5cs/5Qd8aHHtJWzeK9hu3Okw==
+    size: 636360333
+path: https://static.abacus.ai/abacusai/releases/2.2.9/AbacusAIDesktop-linux-x64-2.2.9.AppImage
+sha512: cWn5437INHmAvE91AzNsU83FefUBAHfrC7ejTxux/N/zu5ZZKqAF0+QY124b/n1AgFu4uIhN6LwKt+/p/Arsmg==
+releaseDate: '2026-10-09T16:16:50.139Z'
+stagingPercentage: 100
