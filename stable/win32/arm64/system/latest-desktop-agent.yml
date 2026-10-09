@@ -1,0 +1,9 @@
+version: 2.2.9
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.9/AbacusAIDesktopSetup-arm64-2.2.9.exe
+    sha512: S9noSsrB1wksHB2pW/qpadauDe88ORQPoUcrEwXPpaKVh/E1uk1vD3rnAgnZQFs0l20/b9l+SIMA/snO5Em64Q==
+    size: 755930016
+path: https://static.abacus.ai/abacusai/releases/2.2.9/AbacusAIDesktopSetup-arm64-2.2.9.exe
+sha512: S9noSsrB1wksHB2pW/qpadauDe88ORQPoUcrEwXPpaKVh/E1uk1vD3rnAgnZQFs0l20/b9l+SIMA/snO5Em64Q==
+releaseDate: '2026-10-09T16:24:20.000Z'
+stagingPercentage: 100
