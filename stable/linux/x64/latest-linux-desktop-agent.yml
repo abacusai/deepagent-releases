@@ -1,0 +1,16 @@
+version: 2.3.0
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.3.0/AbacusAIDesktop-linux-x64-2.3.0.AppImage
+    sha512: 0qaNbtJQ+D8NINlTKGSS3LoMPmdu9cxL12iC2FYHZftvcRIU3Z6zCVhjrYarNKk29fD9v2eYmYFWXvrE67CX1A==
+    size: 701230773
+    blockMapSize: 728777
+  - url: https://static.abacus.ai/abacusai/releases/2.3.0/abacusai-app_2.3.0_amd64.deb
+    sha512: OZHVqVfiMv/aoRH+GmfqpWeZ1KeIDKYEbwk8BWa1PqAakaDGdy0OWQBI38b1KcBv6uUQNm+trAkJ54X+kjj8qw==
+    size: 658956020
+  - url: https://static.abacus.ai/abacusai/releases/2.3.0/abacusai-app-2.3.0-el8.x86_64.rpm
+    sha512: CFNBS395vWwr5SgIMA+2DzyVcKWvoRXcpPfXp6BKiYdfWSNwOKMLsiP4fGdYse5fUuN+jhhQkrfk+AybSkSKOg==
+    size: 636376881
+path: https://static.abacus.ai/abacusai/releases/2.3.0/AbacusAIDesktop-linux-x64-2.3.0.AppImage
+sha512: 0qaNbtJQ+D8NINlTKGSS3LoMPmdu9cxL12iC2FYHZftvcRIU3Z6zCVhjrYarNKk29fD9v2eYmYFWXvrE67CX1A==
+releaseDate: '2026-10-11T10:17:22.345Z'
+stagingPercentage: 100
