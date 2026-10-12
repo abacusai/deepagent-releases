@@ -1,8 +1,9 @@
-version: 1.106.24908
+version: 2.3.1
 files:
-  - url: https://static.abacus.ai/abacusai/releases/1.106.24908/AbacusAIListenerSetup-arm64-1.106.24908.exe
-    sha512: R60qSr53IT1AspSsBfPzWDhxcRGPo4biwNRYZlJEJfohKgCX/wryRftAYsWPC/r5CR3vp0I5gwYO4yqHjW1ncg==
-    size: 210113232
-path: https://static.abacus.ai/abacusai/releases/1.106.24908/AbacusAIListenerSetup-arm64-1.106.24908.exe
-sha512: R60qSr53IT1AspSsBfPzWDhxcRGPo4biwNRYZlJEJfohKgCX/wryRftAYsWPC/r5CR3vp0I5gwYO4yqHjW1ncg==
-releaseDate: '2025-12-11T10:06:25.589Z'
+  - url: https://static.abacus.ai/abacusai/releases/2.3.1/AbacusAIListenerSetup-arm64-2.3.1.exe
+    sha512: MDHgJJ/GhwXZMhZodeaZMzpoer2POiNtCjAEoE2c/XSCmY0xh0smIJNhY6BRcPdd3IgALp0kEphNibf2hs66QA==
+    size: 119755584
+path: https://static.abacus.ai/abacusai/releases/2.3.1/AbacusAIListenerSetup-arm64-2.3.1.exe
+sha512: MDHgJJ/GhwXZMhZodeaZMzpoer2POiNtCjAEoE2c/XSCmY0xh0smIJNhY6BRcPdd3IgALp0kEphNibf2hs66QA==
+releaseDate: '2026-10-12T10:48:03.000Z'
+stagingPercentage: 100
