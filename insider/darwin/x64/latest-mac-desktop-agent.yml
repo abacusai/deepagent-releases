@@ -1,0 +1,11 @@
+version: 2.2.91
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.91-insider/AbacusAIDesktop-darwin-x64-2.2.91-insider.zip
+    sha512: WX37uI35HUjs1fQJCsso9KWJi1qSkiyplb4eZJBFZUDK1AUwPAuAZXXe/Y+wgpRf4UumgPGUYMht3FFzazFPow==
+    size: 278819274
+  - url: https://static.abacus.ai/abacusai/releases/2.2.91-insider/AbacusAIDesktop.x64.2.2.91-insider.dmg
+    sha512: q3Nx8ddSMDE1lxWHwq4M7axPuDgS/LeSBNOnFiaxe8NdgRs8Ppzi80heJPenzMm260TFRdnVNiqodp9vJXpZxg==
+    size: 273249381
+path: https://static.abacus.ai/abacusai/releases/2.2.91-insider/AbacusAIDesktop-darwin-x64-2.2.91-insider.zip
+sha512: WX37uI35HUjs1fQJCsso9KWJi1qSkiyplb4eZJBFZUDK1AUwPAuAZXXe/Y+wgpRf4UumgPGUYMht3FFzazFPow==
+releaseDate: '2026-09-17T12:52:44.826Z'
