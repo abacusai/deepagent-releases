@@ -1,0 +1,8 @@
+version: 2.2.90
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.90-insider/AbacusAIDesktopSetup-x64-2.2.90-insider.exe
+    sha512: bWSfEHucGapg2TZlRsGEujx2eCu6yZ4nGnPxXN4ETZhZKrqXw7j0KjFb6czv6CPZK+odzQFSlBDcih1fSLgAOg==
+    size: 795818424
+path: https://static.abacus.ai/abacusai/releases/2.2.90-insider/AbacusAIDesktopSetup-x64-2.2.90-insider.exe
+sha512: bWSfEHucGapg2TZlRsGEujx2eCu6yZ4nGnPxXN4ETZhZKrqXw7j0KjFb6czv6CPZK+odzQFSlBDcih1fSLgAOg==
+releaseDate: '2026-09-17T12:02:56.510Z'
