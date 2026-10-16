@@ -1,0 +1,9 @@
+version: 2.2.7
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.2.7/AbacusAIDesktopSetup-x64-2.2.7.exe
+    sha512: 6BlShK/F3KF72QOv35I52ivDkA1sdl74nu8AWEDJ5C7b71trpHAjtjyimolwK6miShW5/MRQwD+1EnJzT58HdA==
+    size: 757535488
+path: https://static.abacus.ai/abacusai/releases/2.2.7/AbacusAIDesktopSetup-x64-2.2.7.exe
+sha512: 6BlShK/F3KF72QOv35I52ivDkA1sdl74nu8AWEDJ5C7b71trpHAjtjyimolwK6miShW5/MRQwD+1EnJzT58HdA==
+releaseDate: '2026-10-08T10:49:49.000Z'
+minimumVersion: 2.2.7
