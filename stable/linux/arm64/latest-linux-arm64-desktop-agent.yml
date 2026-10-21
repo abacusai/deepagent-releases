@@ -1,0 +1,16 @@
+version: 2.3.5
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.3.5/AbacusAIDesktop-linux-arm64.AppImage
+    sha512: 5fksd3/n8ivOOJ0h1yKcfdDn6lEOeQhD/Qw7WUOz7+Yw/pOGo/uD2aMmUxJg96J4s2uhTG2B9MskLNm+V2/4zA==
+    size: 229125709
+    blockMapSize: 240025
+  - url: https://static.abacus.ai/abacusai/releases/2.3.5/abacusai-app_2.3.5_arm64.deb
+    sha512: jX6g/dh4hklrvLx3Wt7n5IHzFjsnEva2I6LG3jseA5VMhg0J+UrcHIpvEezKzGMvrkrKSa9R5i1i6+GN+VHISg==
+    size: 171533656
+  - url: https://static.abacus.ai/abacusai/releases/2.3.5/abacusai-app-2.3.5-el8.aarch64.rpm
+    sha512: KcJC8MmnkL8y9f7HQQCQkwExutxWEk4v/QtxKWwff2c12ZVL1tK3laIP4FS2+LTTcvjt2pPrWgLuefACTl14Rw==
+    size: 149555761
+path: https://static.abacus.ai/abacusai/releases/2.3.5/AbacusAIDesktop-linux-arm64.AppImage
+sha512: 5fksd3/n8ivOOJ0h1yKcfdDn6lEOeQhD/Qw7WUOz7+Yw/pOGo/uD2aMmUxJg96J4s2uhTG2B9MskLNm+V2/4zA==
+releaseDate: '2026-10-21T18:23:58.882Z'
+minimumVersion: 2.3.5
