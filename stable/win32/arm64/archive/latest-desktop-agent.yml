@@ -1,0 +1,9 @@
+version: 2.3.8
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.3.8/AbacusAIDesktopSetup-arm64-2.3.8.exe
+    sha512: JaLuGQb2ILUy3VgX+ji2N/qoShhJK7sBthh9izmSCQWMJIrsSiHp/M1Org1shzRGqSBQD1c24RPjsFsUPLpWyg==
+    size: 235678952
+path: https://static.abacus.ai/abacusai/releases/2.3.8/AbacusAIDesktopSetup-arm64-2.3.8.exe
+sha512: JaLuGQb2ILUy3VgX+ji2N/qoShhJK7sBthh9izmSCQWMJIrsSiHp/M1Org1shzRGqSBQD1c24RPjsFsUPLpWyg==
+releaseDate: '2026-10-23T17:34:41.000Z'
+minimumVersion: 2.3.5
