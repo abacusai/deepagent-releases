@@ -1,0 +1,8 @@
+version: 2.3.3
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.3.3/AbacusAIDesktopSetup-arm64-2.3.3.exe
+    sha512: qsNgCf4iqR3Hp8U60zc5wOm+2nZBe3hnUJ4IWdIVXvRasFS/9gK736SlIo3noBrBF39sIYLeDNKvgCTDs6pXeA==
+    size: 207514000
+path: https://static.abacus.ai/abacusai/releases/2.3.3/AbacusAIDesktopSetup-arm64-2.3.3.exe
+sha512: qsNgCf4iqR3Hp8U60zc5wOm+2nZBe3hnUJ4IWdIVXvRasFS/9gK736SlIo3noBrBF39sIYLeDNKvgCTDs6pXeA==
+releaseDate: '2026-10-16T21:52:51.000Z'
