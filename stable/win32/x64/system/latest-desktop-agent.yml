@@ -1,0 +1,8 @@
+version: 2.3.10
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.3.10/AbacusAIDesktopSetup-x64-2.3.10.exe
+    sha512: 7Z+qRF9ImBcsJn9O3O+ArYBCbMamlKK/MPdDYXbJdNFGp3PfYDilU9D5UidD2OSBIqo6FA8xyUxCy7gQqZ9NBw==
+    size: 251464200
+path: https://static.abacus.ai/abacusai/releases/2.3.10/AbacusAIDesktopSetup-x64-2.3.10.exe
+sha512: 7Z+qRF9ImBcsJn9O3O+ArYBCbMamlKK/MPdDYXbJdNFGp3PfYDilU9D5UidD2OSBIqo6FA8xyUxCy7gQqZ9NBw==
+releaseDate: '2026-11-02T07:44:31.000Z'
