@@ -1,0 +1,8 @@
+version: 2.5.4
+files:
+  - url: https://static.abacus.ai/abacusai/releases/2.5.4/AbacusAIDesktopSetup-arm64-2.5.4.exe
+    sha512: ebdZbew1x/9X3C++Lv7hquKrvIAt4lbhjqTqgc3S8oxS7662fN90ZjsZPWvLK4nM5nAoyvNq0jL7DRLRNVwCfw==
+    size: 263174648
+path: https://static.abacus.ai/abacusai/releases/2.5.4/AbacusAIDesktopSetup-arm64-2.5.4.exe
+sha512: ebdZbew1x/9X3C++Lv7hquKrvIAt4lbhjqTqgc3S8oxS7662fN90ZjsZPWvLK4nM5nAoyvNq0jL7DRLRNVwCfw==
+releaseDate: '2026-11-26T18:22:52.000Z'
